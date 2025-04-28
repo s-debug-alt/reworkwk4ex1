@@ -95,7 +95,7 @@ namespace reworkwk4ex1
         }
         // method to reverse array
         static void Reverse(int[] ints)
-        { // init start to zeor
+        { // init start to zero
             int start = 0;
             // init end to last element
             int end = ints.Length - 1;
